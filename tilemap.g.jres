@@ -1,0 +1,27 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAAbERERERERsbHru+vkvru7se7r7kTkvrux7u5OROTuu7HkROTuRO6+se7k7kRORL6xRETuRE5EvrFO5O7k7uS+se5E5O7u5L6xRO5O7k7kvrHkRE7uRES+se5ORETkTr6x6+tE7kTuvrG7607uTr67sbu76+6+u7u7u7u7u7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile2": {
+        "data": "hwQQABAAAAAb8f///xEREbH7////u7u7sbtbRPS/u7uxtEIl9P///7ElRVL0////tLsiJPT///+xu7tU9P///7VSIiX0////sbsiRPT///9RW1JC9P///7S7uyX0////USslRPS7u7ux+////7u7u7H7////u7u7sbu7u7u7u7uxu7u7u7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile3": {
+        "data": "hwQQABAAAAD////////////////////////v7v//////zsy7d+e7+//OzLt3x8z7f3fMu3fHzPt/d3537s139393fnfdu3f37757d927d/fvvrvNzLvb/u/MvM18d8z8/8zczXx3zPz/zOzufnfM/P//7+7//////////////////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
