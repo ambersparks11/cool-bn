@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "animation": "*"
+        "animation": "*",
+        "story": "github:riknoll/arcade-story#v1.3.1"
     },
     "files": [
         "main.blocks",
